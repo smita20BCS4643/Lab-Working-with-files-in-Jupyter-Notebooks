@@ -100,3 +100,63 @@ Once you complete the lab, you can **download** the notebook as follows:
  
  *   Your notebook is downloaded to your local machine.
 
+
+## Exercise 5
+
+
+
+###  Upload the downloaded notebook 
+
+In the previous exercise, we learned how to save and download a notebook. Now we will learn to upload a notebook to Skills Network Labs. 
+
+To upload the notebook we have two options:
+
+**1. Upload files option.**
+
+**2. Drag and drop option.**
+
+#### 1. Upload files option
+
+* Click **Upload Files** to upload the notebook, which you had downloaded in **Exercise 2** to Skills Network.
+
+* Browse for the notebook in your local machine and select it.
+
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/uploadfilestosnlabs.png" width="60%/" alt="Find the notebook to upload on your local computer">
+
+* Once the upload is complete, the notebook will appear in the Skills Network Labs left navigation pane.
+
+* Double-click on the notebook to open and view its contents.
+
+#### 2. Drag and drop option
+
+* Go to file manager of your local system to view the downloaded file.
+
+* Select the notebook and drag the file into the **file explorer** of Skills Network Labs.
+
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/dragandrop1.png" width="60%/" alt="Place your cursor on the notbook and drag and drop it on the Skills Network Labs navigation pane">
+
+ 
+ * The notebook now appears in the left panel of the Skills Network Labs environment.
+ 
+ * Double click on the notebook to open and view its contents.
+
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/view_notebook.png" width="60%/" alt="Double-click the lab in left navigation pane to open it"><br/>
+
+
+## Exercise 6
+
+### Work with multiple notebooks
+
+You can now view your notebooks at the same time as follows:<br/>
+
+   * Click **File** menu, and select **New view for notebook** option.  
+   
+     <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/splitnotebook1.png" alt="Click File and on the menu select New view for notebook"><br/>
+     
+  
+   * You can now view the notebooks side-by-side and update it.
+     
+   
+     <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Labs_V4/images/splitnotebook2.png" alt="Skills Network Lab now shows your notbooks side-by-side"><br/>
+     
+
